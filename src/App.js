@@ -1,4 +1,5 @@
 import About from "./components/About";
+import Contact from "./components/Contact";
 import Home from "./components/Home";
 import { Last } from "./components/Last";
 import Navbar from "./components/Navbar";
@@ -14,6 +15,7 @@ function App() {
      <About/>
      <Products/>
      <Last/>  
+     <Contact/>
   
     </div>
   );

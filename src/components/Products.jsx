@@ -4,13 +4,13 @@ import ninja1 from "../assets/ninjafootprints.png";
 const Products = () => {
   return (
     <div
-      name="about"
+      name="products"
       className="w-full h-screen bg-gradient-to-b from-gray-800 to-gray-800
     text-white"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div>
-          <p className=" text-4xl font-bold ">NinjaTrader Platform</p>
+          <p className="text-4xl font-bold ">NinjaTrader Platform</p>
         </div>
         <div className="mt-10">
           <img
