@@ -29,7 +29,7 @@ const Products = () => {
            <div className="text-blue-600" >
            <a href="https://bookmap.com/packages-comparison/ " >Check the official pricing</a>
            </div>
-           <div className="text-green-400 font-medium" ><h3>our price : 7999 rs or 98 usd /-</h3></div>
+           <div className="text-green-400 font-medium" ><h3>our price : 10000 Rs or 98 usd /-</h3></div>
         
           <button  className=" flex justify-center text-2xl hover:scale-105 duration-200">Click here for more info</button>
         
